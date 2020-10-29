@@ -15,6 +15,6 @@ Python modules:
 - tkinter
 
 ## Screenshots
-
-
+![My_ACF OFF](https://github.com/Scalcur/wav_autocorrelator/blob/main/screenshots/1.jpg)
+![My_ACF ON](https://github.com/Scalcur/wav_autocorrelator/blob/main/screenshots/2.jpg)
  
