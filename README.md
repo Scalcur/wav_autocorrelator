@@ -7,6 +7,7 @@ The application can graphically show you wav-audio and autocorrelate it in two w
 
 ## Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-blue?style=plastic&logo=python&logoColor=yellow)
+
 Python modules:
 - librosa
 - matplotlib
