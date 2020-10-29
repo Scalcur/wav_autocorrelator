@@ -9,11 +9,12 @@ The application can graphically show you wav-audio and autocorrelate it in two w
 ![Python](https://img.shields.io/badge/-Python-blue?style=plastic&logo=python&logoColor=yellow)
 
 Python modules:
-- librosa
-- matplotlib
-- numpy
+- librosa 0.8.0
+- matplotlib 3.3.2
+- numpy 1.19.02
 - tkinter
 
 ## Screenshots
+
 
  
