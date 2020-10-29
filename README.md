@@ -5,8 +5,8 @@ wav_autocorrelator
 This python program was developed by me because I wanted to test my skills and wanted to combine tkinter and matplotlib in one app.
 The application can graphically show you wav-audio and autocorrelate it in two ways: with librosa.autocorrelate func and loop func.
 
-- You can set the lag values for different autocorrelation graphs by pressing 'Set lag value'-BUTTON or 'ENTER'
-- You can choose different wav-files in file menu.
+- You can set the lag values for different autocorrelation graphs by pressing ![Set_butt](https://img.shields.io/badge/-Set_lag_value-grey) or ![Enter_butt](https://img.shields.io/badge/-Enter-grey)
+- You can choose different wav-files in ![Set_butt](https://img.shields.io/badge/-File-grey) menu.
 
 ## Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-blue?style=plastic&logo=python&logoColor=yellow)
